@@ -1,0 +1,3 @@
+rootProject.name='AndoidCommonUtilsModule'
+include ':app'
+include ':commonutils'
