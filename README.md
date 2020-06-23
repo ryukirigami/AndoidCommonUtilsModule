@@ -18,4 +18,6 @@
 	b. Commit and push the code<br>
 	c. Create release tags for your project
 
-3. Get Download Information from JitPack
+3. Get Download Information from JitPack<br>
+	a. Go to JitPack website https://jitpack.io with your account<br>
+	b. Copy your github module project link and paste to JitPack.io (Look up searching form)
