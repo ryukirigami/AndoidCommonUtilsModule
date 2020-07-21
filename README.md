@@ -11,7 +11,7 @@
 	b. Add classpath in gradle (Project)<br>
 		dependencies {<br>
 			classpath 'com.android.tools.build:gradle:3.6.2'<br>
-			classpath 'com.github.dcendents.android-maven-gradle-plugin:2.0'
+			classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
 
 2. Publish Project to Github<br>
 	a. Share your project on github and make it public<br>
